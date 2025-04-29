@@ -1,0 +1,1 @@
+# karn-thumbnail-designs-case-study

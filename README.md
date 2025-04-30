@@ -1,10 +1,6 @@
 # 🎨 Karn Thumbnail Designs – Portfolio Website
 
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
-![Sanity](https://img.shields.io/badge/Sanity-EF3E36?style=for-the-badge&logo=sanity&logoColor=white) 
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-EF3E36?style=for-the-badge&logo=framer&logoColor=white) 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Sanity](https://img.shields.io/badge/Sanity-EF3E36?style=for-the-badge&logo=sanity&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-EF3E36?style=for-the-badge&logo=framer&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 > A sleek and creative portfolio website designed for a thumbnail artist to showcase their work, with real-time CMS content editing, motion animations, and a visually engaging layout.
 
@@ -55,7 +51,7 @@ It’s developed with a modern stack that enables fast performance, structured c
 
 ## 🖼️ Screenshots
 
-![Homepage](./images/karn-thumbnail-designs.vercel.app_.png)  
+![Homepage](./karn-thumbnail-designs.vercel.app_.png)  
 _Creative homepage layout for a thumbnail designer_
 
 ---

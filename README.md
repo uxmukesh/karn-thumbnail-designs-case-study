@@ -52,7 +52,7 @@ It’s developed with a modern stack that enables fast performance, structured c
 ## 🖼️ Screenshots
 
 ![Homepage](./karn-thumbnail-designs.vercel.app_.png)  
-_Creative homepage layout for a thumbnail designer_
+_Creative homepage layout_
 
 ---
 
